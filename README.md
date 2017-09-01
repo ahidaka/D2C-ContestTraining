@@ -50,8 +50,8 @@ https://docs.microsoft.com/ja-jp/azure/iot-hub/iot-hub-linux-iot-edge-simulated-
 
 ### 簡単改造
 前項の温度センサーシミュレーターを実データ入力に簡単改造Jsonファイルにデータ受け渡しファイル名を追記して、\iot-edge\modules\simulated_device\src\simulated_device.cのファイルだけを改造すればいい。
-GitHub
 
+#### GitHub URL
 
 ## Cognitive Services 動作環境を選ばないzure AI API
 https://azure.microsoft.com/ja-jp/services/cognitive-services/
