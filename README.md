@@ -11,7 +11,7 @@ https://github.com/Azure-Samples
 ## Azure IoT Hub と物理デバイス入門チュートリアル
 https://docs.microsoft.com/ja-jp/azure/iot-hub/iot-hub-get-started-simulated
 
-##Azure IoT Hub 開発者ガイド
+## Azure IoT Hub 開発者ガイド
 https://docs.microsoft.com/ja-jp/azure/iot-hub/iot-hub-devguide
 
 ## C 用 Azure IoT device SDK
@@ -29,7 +29,8 @@ On Windows: Device SDK on NuGet
 https://docs.microsoft.com/ja-jp/azure/iot-hub/iot-hub-get-started-simulated
 
 ### Raspberry Pi オンライン シミュレーター
-簡単！1分間で動作確認できるRaspberry Pi オンライン シミュレーター（実機版もあり）https://docs.microsoft.com/ja-jp/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started
+簡単！1分間で動作確認できるRaspberry Pi オンライン シミュレーター（実機版もあり）
+https://docs.microsoft.com/ja-jp/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started
 
 ## Azure iot-edge
 https://docs.microsoft.com/ja-jp/azure/iot-hub/iot-hub-iot-edge-overview
