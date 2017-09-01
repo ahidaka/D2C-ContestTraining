@@ -49,9 +49,10 @@ https://docs.microsoft.com/ja-jp/azure/iot-hub/iot-hub-linux-iot-edge-simulated-
 コントロールパネル→プログラムと機能→Windows機能の有効化→Windows Subsystem for Linux(Beta)
 
 ### 簡単改造
-前項の温度センサーシミュレーターを実データ入力に簡単改造Jsonファイルにデータ受け渡しファイル名を追記して、\iot-edge\modules\simulated_device\src\simulated_device.cのファイルだけを改造すればいい。
+前項の温度センサーシミュレーターを実データ入力に簡単改造Jsonファイルにデータ受け渡しファイル名を追記して、\iot-edge\modules\simulated_device\src\simulated_device.cのファイルだけを改造。下記事例参照。
 
 #### GitHub URL
+https://github.com/ahidaka/iot-edge-hacks
 
 ## Cognitive Services 動作環境を選ばないzure AI API
 https://azure.microsoft.com/ja-jp/services/cognitive-services/
