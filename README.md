@@ -54,7 +54,7 @@ https://docs.microsoft.com/ja-jp/azure/iot-hub/iot-hub-linux-iot-edge-simulated-
 #### GitHub URL
 https://github.com/ahidaka/iot-edge-hacks
 
-## Cognitive Services 動作環境を選ばないzure AI API
+## Cognitive Services 動作環境を選ばない Azure AI API
 https://azure.microsoft.com/ja-jp/services/cognitive-services/
 
 ### CustomVisionSample
