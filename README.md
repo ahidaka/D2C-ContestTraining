@@ -71,12 +71,10 @@ simulated_device_cloud_upload_sampleのプロパティで「デバッグ」設�
 ```
 ..\..\..\samples\simulated_device_cloud_upload\src\simulated_device_cloud_upload_win.json
 ```
-
 ![Debug Property.png](./DebugProperty.png)
 
 ## Cognitive Services 動作環境を選ばない Azure AI API
 https://azure.microsoft.com/ja-jp/services/cognitive-services/
-![Solution Explorer](./SolutionExplorer.png)
 
 ### CustomVisionSample
 https://github.com/ms-iotkithol-jp/CustomVisionSample
