@@ -20,10 +20,10 @@ GitHub
 https://github.com/Azure/azure-iot-sdk-c
 
 ### 4種類のデバイスを標準サポート
-On Linux (Ubuntu 14.04, 15.04, 15.10, 16.04): Device SDK on apt-get
-On mbed: Device SDK library on MBED
-On Arduino: Device SDK library in the Arduino IDE
-On Windows: Device SDK on NuGet
+#### On Linux (Ubuntu 14.04, 15.04, 15.10, 16.04): Device SDK on apt-get
+#### On mbed: Device SDK library on MBED
+#### On Arduino: Device SDK library in the Arduino IDE
+#### On Windows: Device SDK on NuGet
 
 ## Azure IoT Hub とシミュレートされたデバイス入門チュートリアル
 https://docs.microsoft.com/ja-jp/azure/iot-hub/iot-hub-get-started-simulated
@@ -49,8 +49,11 @@ https://docs.microsoft.com/ja-jp/azure/iot-hub/iot-hub-linux-iot-edge-simulated-
 
 ### 簡単改造
 前項の温度センサーシミュレーターを実データ入力に簡単改造Jsonファイルにデータ受け渡しファイル名を追記して、\iot-edge\modules\simulated_device\src\simulated_device.cのファイルだけを改造すればいい。
-GitHub参照
+GitHub
+
 
 ## Cognitive Services 動作環境を選ばないzure AI API
 https://azure.microsoft.com/ja-jp/services/cognitive-services/
-### CustomVisionSample https://github.com/ms-iotkithol-jp/CustomVisionSample
+
+### CustomVisionSample
+https://github.com/ms-iotkithol-jp/CustomVisionSample
