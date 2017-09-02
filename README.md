@@ -16,7 +16,8 @@ https://docs.microsoft.com/ja-jp/azure/iot-hub/iot-hub-devguide
 
 ## C 用 Azure IoT device SDK
 https://docs.microsoft.com/ja-jp/azure/iot-hub/iot-hub-device-sdk-c-intro
-GitHub
+
+#### GitHub
 https://github.com/Azure/azure-iot-sdk-c
 
 ### 4種類のデバイスを標準サポート
