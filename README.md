@@ -5,7 +5,7 @@
 https://docs.microsoft.com/ja-jp/azure/iot-hub/
 
 ## Azure Samples ソースコード
-GitHub
+#### GitHub
 https://github.com/Azure-Samples
 
 ## Azure IoT Hub と物理デバイス入門チュートリアル
